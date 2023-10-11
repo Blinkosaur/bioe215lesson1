@@ -26,10 +26,10 @@ You either read Bryan (2018) or Braga et al. (2023). Answer the questions for th
 Bryan (2018)
 
 The basic git commands are commit, push, and pull. Which commands change happen locally (i.e., on your computer)? 
-- ....all of them....?? 
+- ....commit....
 
 Which happen remotely?
-- pulll....?? 
+- pulll...push
 
 Why do diffs work for source code (e.g., .R files) but not Word documents (i.e., .docx files)?
 
